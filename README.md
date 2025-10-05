@@ -9,15 +9,20 @@ Sections refer to type of data to collect (same item could be in different locat
 There are total 9 Sections:
 
 
-
 mined
+
 used
+
 crafted
+
 broken
+
 picked_up
+
 dropped
 
 killed_by
+
 killed
 
 custom
