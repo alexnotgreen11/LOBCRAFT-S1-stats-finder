@@ -9,6 +9,7 @@ Sections refer to type of data to collect (same item could mean different things
 There are total 9 Sections:
 
 
+
 mined
 
 used
@@ -28,7 +29,9 @@ killed
 custom
 
 
+
 since NBT names for "custom" aren't obvious they will be listed below
+
 
 
 animals_bred
