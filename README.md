@@ -4,7 +4,7 @@ If there is any trouble you can contact @notgreenfloppa on discord
 
 you also need to use NBT names e.g deepslate_diamond_ore, wither, netherite_sword
 
-Sections refer to type of data to collect (same item could mean different things like broken or placed)
+Sections refer to type of data to consider (same item could mean different things like broken or placed)
 
 There are total 9 Sections:
 
